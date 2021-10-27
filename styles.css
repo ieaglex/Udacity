@@ -1,0 +1,37 @@
+/* add your CSS here */
+.card {
+    border: 2px solid gray;
+    width: 300px;
+    display:flex;
+    flex-wrap:wrap;
+    padding:10px;
+    background-color:#003832;
+    box-shadow: 7px 7px 5px #dedede;
+}
+.fact {
+    font-style:italic;
+    margin-top:5px;
+}
+ul {
+    padding:0;
+}
+li {
+    list-style:none;
+}
+li span {
+    font-weight:bold;
+}
+.picture {
+    width:300px;
+    border:1px solid black;
+    margin-bottom:10px;
+    margin-top:5px;
+}
+.information {
+    border: double black;
+    padding:0 5px 0 5px;
+    background-color:#012e29;
+}
+h3 {
+    margin:5px;
+}
